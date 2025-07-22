@@ -68,19 +68,6 @@ This scenario is modeled after real supply chain challenges faced by growing man
 
 ---
 
-## 📈 Supply Chain KPIs Implemented
-
-| KPI                        | Description                                                      | Business Impact                                         |
-|----------------------------|------------------------------------------------------------------|---------------------------------------------------------|
-| **Total Orders**           | Unique order count                                               | Demand tracking, sales pipeline                         |
-| **Line Fill Rate**         | % of order lines delivered in full                               | Measures order completeness at item level               |
-| **Volume Fill Rate**       | % of total quantity delivered                                    | Ensures bulk fulfillment, reduces shortages             |
-| **On-Time Delivery %**     | % of orders delivered on or before agreed delivery date          | Tracks delivery reliability                             |
-| **In-Full Rate**           | % of orders with all items delivered in correct quantity         | Tracks delivery accuracy                                |
-| **OTIF**                   | % of orders delivered on time AND in full                        | Gold-standard supply chain reliability metric           |
-| **Reliability**            | Alias for OTIF, often used in contracts/SLAs                     | Customer retention, negotiation leverage                |
-
----
 
 ## 🔄 Step-by-Step Workflow
 
